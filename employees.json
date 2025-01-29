@@ -1,35 +1,8 @@
 [
   {
-    "firstName": "Alice",
-    "lastName": "Dubois",
-    "birthDate": "07/09/1991",
-    "startDate": "01/02/2025",
-    "street": "20th Avenue",
-    "city": "New-York",
-    "state": "New York",
-    "zipCode": "58000",
-    "department": "Marketing"
-  },
-  {
-    "firstName": "Lebron",
-    "lastName": "James",
-    "birthDate": "06/13/1990",
-    "startDate": "01/21/2025",
-    "street": "72 Bis",
-    "city": "Miami",
-    "state": "Kentucky",
-    "zipCode": "42000",
-    "department": "Human Resources"
-  },
-  {
-    "firstName": "Oliver",
-    "lastName": "Sanders",
-    "birthDate": "09/10/1996",
-    "startDate": "12/31/2024",
-    "street": "46 Ter",
-    "city": "Orlando",
-    "state": "Oregon",
-    "zipCode": "24000",
-    "department": "Engineering"
+    "id": "bf1e88d0-8a58-4295-8a41-bfff29279261",
+    "nom": "Jean",
+    "age": 25,
+    "createdAt": "2025-01-29T15:53:55.009Z"
   }
 ]
