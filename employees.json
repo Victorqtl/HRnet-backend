@@ -1,19 +1,5 @@
 [
   {
-    "id": "8h7g6f5e-4d3c-2b1a-9z8y-x7w6v5u4t3s2",
-    "firstName": "Isabelle",
-    "lastName": "Garcia",
-    "birthDate": "07/19/1992",
-    "startDate": "03/15/2025",
-    "street": "Elm Street",
-    "city": "Miami",
-    "state": "Florida",
-    "zipCode": "33101",
-    "department": "Finance",
-    "createdAt": "2025-01-29T15:34:10.659Z",
-    "updatedAt": "2025-02-03T16:05:46.964Z"
-  },
-  {
     "id": "2s3t4u5v-6w7x-8y9z-0a1b-c2d3e4f5g6h7",
     "firstName": "William",
     "lastName": "Taylor",
@@ -24,7 +10,8 @@
     "state": "Colorado",
     "zipCode": "80201",
     "department": "Engineering",
-    "createdAt": "2025-01-29T15:34:10.660Z"
+    "createdAt": "2025-01-29T15:34:10.660Z",
+    "updatedAt": "2025-02-05T09:29:15.013Z"
   },
   {
     "id": "7g6h5i4j-3k2l-1m0n-9o8p-q7r6s5t4u3v2",
@@ -378,19 +365,6 @@
     "createdAt": "2025-01-29T15:34:10.664Z"
   },
   {
-    "id": "7r8s9t0u-1v2w-3x4y-5z6a-7b8c9d0e1f2g",
-    "firstName": "Charlotte",
-    "lastName": "Jackson",
-    "birthDate": "02/17/1992",
-    "startDate": "03/05/2025",
-    "street": "Market St",
-    "city": "Philadelphia",
-    "state": "Pennsylvania",
-    "zipCode": "19102",
-    "department": "Marketing",
-    "createdAt": "2025-01-29T15:34:10.665Z"
-  },
-  {
     "id": "3h4i5j6k-7l8m-9n0o-1p2q-3r4s5t6u7v8w",
     "firstName": "Ethan",
     "lastName": "White",
@@ -545,5 +519,31 @@
     "zipCode": "33139",
     "department": "IT",
     "createdAt": "2025-01-29T15:34:10.677Z"
+  },
+  {
+    "id": "00c1c774-fa81-49dc-8b65-bf2019192fa5",
+    "firstName": "Lebron",
+    "lastName": "James",
+    "birthDate": "02/01/2025",
+    "startDate": "02/01/2025",
+    "street": "72 Bis",
+    "city": "New-York",
+    "state": "Alaska",
+    "zipCode": "58000",
+    "department": "Marketing",
+    "createdAt": "2025-02-05T09:31:22.130Z"
+  },
+  {
+    "id": "d6d0fd29-2298-4378-8a1a-057d2162ecf9",
+    "firstName": "Alice",
+    "lastName": "Dubois",
+    "birthDate": "02/06/2025",
+    "startDate": "02/13/2025",
+    "street": "30 Rue",
+    "city": "Miami",
+    "state": "Arizona",
+    "zipCode": "42000",
+    "department": "Marketing",
+    "createdAt": "2025-02-05T10:27:43.486Z"
   }
 ]
