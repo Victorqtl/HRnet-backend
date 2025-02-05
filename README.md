@@ -2,6 +2,9 @@
 
 This is a simple backend API for managing employee records. Employee data is stored in a JSON file and managed using file-based operations.
 
+You can find the frontend project here :
+https://github.com/Victorqtl/HRnet
+
 ## Features
 
 -   List all employees
